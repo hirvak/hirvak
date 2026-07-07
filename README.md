@@ -261,11 +261,6 @@ Outside of coding, I enjoy participating in hackathons and turning ideas into wo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hirvak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00C2FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirvak&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=hirvak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=00C2FF&currStreakLabel=58A6FF" />
 
 <br/>
