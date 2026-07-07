@@ -266,7 +266,7 @@ Outside of coding, I enjoy participating in hackathons and turning ideas into wo
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hirvak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=00C2FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=hirvak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=00C2FF&currStreakLabel=58A6FF" />
 
 <br/>
 
