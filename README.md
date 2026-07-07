@@ -1,60 +1,13 @@
-# Hi, I'm Hirva Kansara 👋
+<h1 align="center">Hi 👋, I'm Hirva Kansara</h1>
 
-Computer Science & Business Systems student at PDEU.
+<h3 align="center">
+Backend Developer • AI/ML Enthusiast • Computer Science & Business Systems Student
+</h3>
 
-I'm passionate about Backend Development, AI/ML, and building scalable applications using FastAPI and Python.
+<p align="center">
+Building intelligent backend applications using FastAPI, Machine Learning & Computer Vision.
+</p>
 
-Currently:
-- Building AI-powered applications
-- Learning System Design
-- Exploring LLMs and Agentic AI
-- Participating in Hackathons
-- And exploring different Tech Stack
-
-## Tech Stack
-
-Languages:
-Python • Java • C++ • SQL • C 
-
-Backend:
-FastAPI • Flask • Fast APIs
-
-Database:
-PostgreSQL • MySQL
-
-Machine Learning:
-Scikit-learn • TensorFlow • OpenCV • YOLOv8
-
-Tools:
-Git • GitHub • Postman • VS Code
-
-## Featured Projects
-
-### Food Calories Prediction
-- YOLOv8 based food detection
-- Nutrition estimation
-- FastAPI backend
-- PostgreSQL
-
-### Ticket Management System
-- Authentication
-- Role Based Access
-- Pagination
-- Search & Filters
-- FastAPI + PostgreSQL
-
-### JobNimbus CRM Integration
-- API Integration
-- Webhooks
-- Contact Sync
-
-## Currently Learning
-
-- System Design
-- LLM Applications
-- Docker
-- CI/CD
-
-## Connect with Me
-
-Email:hirvakansara36@gmail.com
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;FastAPI+%7C+Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Always+Learning+New+Things" />
+</p>
