@@ -47,7 +47,6 @@ Role:     CS Student / Aspiring Backend Dev
 Focus:    Backend APIs · Machine Learning
 Stack:    Python · FastAPI · SQL
 Learning: Docker · CI/CD · LLMs
-Goal:     Backend Engineer with AI/ML interest
 ```
 
 </td>
