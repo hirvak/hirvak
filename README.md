@@ -22,7 +22,7 @@
 
 <br/>
 
-## 📌 About Me
+## About Me
 
 <table>
 <tr>
@@ -32,11 +32,11 @@ I'm a Computer Science & Business Systems (CSBS) student at **Pandit Deendayal E
 
 My interests sit at the intersection of **scalable backend architecture** and **applied machine learning** — from designing clean REST APIs to training computer vision models that solve real problems.
 
-- 🎓 B.Tech CSBS, PDEU Gandhinagar
-- 📍 Ahmedabad, Gujarat, India
-- 🧠 Focus: FastAPI · Distributed Systems · Computer Vision · LLMs
-- 🌱 Currently deepening my System Design & Docker knowledge
-- 🤝 Membership Chair, ACM Student Chapter
+- B.Tech CSBS, PDEU Gandhinagar
+- Ahmedabad, Gujarat, India
+- Focus: FastAPI · Distributed Systems · Computer Vision · LLMs
+- Currently deepening my System Design & Docker knowledge
+- Membership Chair, ACM Student Chapter
 
 </td>
 <td width="40%" valign="top">
@@ -56,7 +56,7 @@ Goal:     AI-focused Backend Engineer
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Goal:     AI-focused Backend Engineer
 
 <br/>
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -114,21 +114,22 @@ Goal:     AI-focused Backend Engineer
 
 <br/>
 
-## 🎯 Current Goals
+## Current Goals
 
-- 🚀 Building AI-powered applications end-to-end, from model to API
-- 🏗️ Strengthening backend architecture & system design fundamentals
-- 🐳 Learning Docker & CI/CD pipelines for production-grade deployment
-- 🤖 Exploring LLM-based and agentic AI applications
-- 🏆 Actively participating in hackathons
-- 🌍 Contributing to open source
+- Building AI-powered applications end-to-end, from model to API
+- Strengthening backend architecture & system design fundamentals
+- Learning Docker & CI/CD pipelines for production-grade deployment
+- Exploring LLM-based and agentic AI applications
+- Actively participating in hackathons
+- Contributing to open source
+- Exploring new technologies
 
 <br/>
 
-## 💼 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><b>🍎 Food Calories Prediction</b></summary>
+<summary><b>Food Calories Prediction</b></summary>
 <br/>
 
 > Computer vision system that detects food items from images and predicts nutritional/calorie information in real time.
@@ -143,7 +144,7 @@ Goal:     AI-focused Backend Engineer
 </details>
 
 <details>
-<summary><b>🎫 Ticket Management System</b></summary>
+<summary><b>Ticket Management System</b></summary>
 <br/>
 
 > A role-based ticketing platform with authentication, search, and filtering built for real-world support workflows.
@@ -158,7 +159,7 @@ Goal:     AI-focused Backend Engineer
 </details>
 
 <details>
-<summary><b>🔗 JobNimbus CRM Integration</b></summary>
+<summary><b>JobNimbus CRM Integration</b></summary>
 <br/>
 
 > Integration layer connecting external systems to JobNimbus CRM via REST APIs and webhooks.
@@ -173,7 +174,7 @@ Goal:     AI-focused Backend Engineer
 </details>
 
 <details>
-<summary><b>🚢 Titanic Survival Prediction API</b></summary>
+<summary><b>Titanic Survival Prediction API</b></summary>
 <br/>
 
 > Classic ML classification problem served as a production-style API.
@@ -188,7 +189,7 @@ Goal:     AI-focused Backend Engineer
 </details>
 
 <details>
-<summary><b>🖼️ AI Image Classifier</b></summary>
+<summary><b>AI Image Classifier</b></summary>
 <br/>
 
 > Binary image classifier built with a custom CNN architecture.
@@ -203,19 +204,7 @@ Goal:     AI-focused Backend Engineer
 
 <br/>
 
-## 🏆 Achievements & Leadership
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Membership Chair — ACM Student Chapter**
-- Led membership growth initiatives and community engagement
-- Organized technical events and workshops for peer developers
-- Collaborated with a cross-functional team to drive chapter activities
-
-</td>
-<td width="50%" valign="top">
+## Achievements & Leadership
 
 **Hands-on Experience**
 - FastAPI backend development & REST API design
@@ -223,13 +212,9 @@ Goal:     AI-focused Backend Engineer
 - Machine learning model development & deployment
 - CRM integrations & webhook automation
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-## 🗺️ Roadmap
+## Roadmap
 
 ```
 ✔ Backend Development
@@ -245,7 +230,7 @@ Goal:     AI-focused Backend Engineer
 
 <br/>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -264,7 +249,7 @@ Goal:     AI-focused Backend Engineer
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
