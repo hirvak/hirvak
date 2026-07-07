@@ -28,13 +28,13 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a Computer Science & Business Systems (CSBS) student at **Pandit Deendayal Energy University (PDEU), Gandhinagar**, with a Diploma in Computer Engineering as my foundation. I build backend systems and AI-powered applications, and I'm working toward becoming a **Backend Engineer specialized in AI/ML**.
+I'm a Computer Science & Business Systems (CSBS) student at **Pandit Deendayal Energy University (PDEU), Gandhinagar**, with a Diploma in Computer Engineering as my foundation. I build backend systems and AI-powered applications, and I'm an **Aspiring Backend Engineer with a strong interest in AI/ML**.
 
 My interests sit at the intersection of **scalable backend architecture** and **applied machine learning** — from designing clean REST APIs to training computer vision models that solve real problems.
 
 - B.Tech CSBS, PDEU Gandhinagar
 - Ahmedabad, Gujarat, India
-- Focus: FastAPI · Distributed Systems · Computer Vision · LLMs
+- Focus: FastAPI · Backend APIs · Computer Vision · Machine Learning
 - Currently deepening my System Design & Docker knowledge
 - Membership Chair, ACM Student Chapter
 
@@ -43,11 +43,11 @@ My interests sit at the intersection of **scalable backend architecture** and **
 
 ```yaml
 Name:     Hirva Kansara
-Role:     CS Student / Backend Dev
-Focus:    AI/ML · Backend Systems
+Role:     CS Student / Aspiring Backend Dev
+Focus:    Backend APIs · Machine Learning
 Stack:    Python · FastAPI · SQL
 Learning: Docker · CI/CD · LLMs
-Goal:     AI-focused Backend Engineer
+Goal:     Backend Engineer with AI/ML interest
 ```
 
 </td>
@@ -60,7 +60,7 @@ Goal:     AI-focused Backend Engineer
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -68,32 +68,43 @@ Goal:     AI-focused Backend Engineer
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-**Backend**
+**Backend Frameworks**
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-**Database**
+**Databases**
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Machine Learning & Vision**
+**Machine Learning & Computer Vision**
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8-00C2FF?style=for-the-badge&logo=yolo&logoColor=white" />
 
-**Tools**
+**Python Ecosystem**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**Developer Tools**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 
 </div>
 
@@ -109,6 +120,7 @@ Goal:     AI-focused Backend Engineer
 <img src="https://img.shields.io/badge/LLM_Applications-58A6FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Agentic_AI-00C2FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Design_Patterns-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud_Fundamentals-00C2FF?style=flat-square" />
 
 </div>
 
@@ -123,6 +135,21 @@ Goal:     AI-focused Backend Engineer
 - Actively participating in hackathons
 - Contributing to open source
 - Exploring new technologies
+
+<br/>
+
+## Engineering Principles
+
+- Write clean and maintainable code
+- Build scalable backend systems
+- Learn by building real-world projects
+- Keep improving through continuous learning
+
+<br/>
+
+## Fun Fact
+
+Outside of coding, I enjoy participating in hackathons and turning ideas into working prototypes.
 
 <br/>
 
