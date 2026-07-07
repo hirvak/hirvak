@@ -10,13 +10,13 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" /></a>
+<a href="https://www.linkedin.com/in/hirva-kansara-b901392b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hirvakansara36@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/hirvak"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=hirvak&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -249,16 +249,16 @@ Goal:     AI-focused Backend Engineer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00C2FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hirvak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00C2FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirvak&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=00C2FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hirvak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=00C2FF&currStreakLabel=58A6FF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=00C2FF&point=C9D1D9" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hirvak&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=00C2FF&point=C9D1D9" width="98%"/>
 
 </div>
 
@@ -270,9 +270,9 @@ Goal:     AI-focused Backend Engineer
 
 I'm always open to discussing backend systems, AI/ML projects, hackathons, or open-source collaboration — feel free to reach out.
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" /></a>
+<a href="https://www.linkedin.com/in/hirva-kansara-b901392b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hirvakansara36@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/hirvak"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" /></a>
 
 </div>
 
