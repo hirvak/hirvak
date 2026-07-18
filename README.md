@@ -73,7 +73,7 @@ AI food calorie prediction — custom-trained YOLOv8 detects meals, estimates ca
 
 `FastAPI` `React` `PostgreSQL` `YOLOv8`
 
-[→ repo](https://github.com/hirvak/NutriLens)
+[→ repo](https://github.com/hirvak/food-calories-prediction)
 
 </td>
 <td width="33%" valign="top">
@@ -83,7 +83,7 @@ Role-based ticketing platform — auth, admin dashboard, filtering, and paginati
 
 `FastAPI` `React` `TypeScript` `JWT`
 
-[→ repo](https://github.com/hirvak/Ticket-Management-System)
+[→ repo]()
 
 </td>
 <td width="33%" valign="top">
