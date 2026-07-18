@@ -1,293 +1,155 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Hirva%20Kansara&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=00C2FF" />
+<h1 align="center">Hey there, I'm Hirva Kansara! 👋</h1>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F0&center=true&vCenter=true&width=650&lines=Backend+Developer;AI%2FML+%26+Computer+Vision+Enthusiast;FastAPI+%2B+PostgreSQL+%2B+YOLOv8;Turning+Real-World+Problems+Into+AI+Apps" alt="Typing SVG" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Engineer+in+the+making;FastAPI+%2B+PostgreSQL+%2B+Clean+Architecture;Computer+Vision+%26+Machine+Learning;Building+AI-powered+Applications;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hirvak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hirvak?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/hirva-kansara-b901392b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hirvakansara36@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/hirvak"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hirvak&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
+---
 
 ## About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm a Computer Science & Business Systems (CSBS) student at **Pandit Deendayal Energy University (PDEU), Gandhinagar**, with a Diploma in Computer Engineering as my foundation. I build backend systems and AI-powered applications, and I'm an **Aspiring Backend Engineer with a strong interest in AI/ML**.
-
-My interests sit at the intersection of **scalable backend architecture** and **applied machine learning** — from designing clean REST APIs to training computer vision models that solve real problems.
-
-- B.Tech CSBS, PDEU Gandhinagar
-- Ahmedabad, Gujarat, India
-- Focus: FastAPI · Backend APIs · Computer Vision · Machine Learning
-- Currently deepening my System Design & Docker knowledge
-- Membership Chair, ACM Student Chapter
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-Name:     Hirva Kansara
-Role:     CS Student / Aspiring Backend Dev
-Focus:    Backend APIs · Machine Learning
-Stack:    Python · FastAPI · SQL
-Learning: Docker · CI/CD · LLMs
+```text
+const hirvaKansara = {
+    location: "Ahmedabad, Gujarat, India 📍",
+    timezone: "IST (UTC +5:30) 🌏",
+    education: "B.Tech in Computer Science & Business Systems (CSBS) @ Pandit Deendayal Energy University, Gandhinagar",
+    graduation: "Expected 2027",
+    currentlyLearning: ["System Design", "ML & AI", "Cloud", "DSA", "Docker & CI/CD", "Scalable Backend Development"],
+    askMeAbout: ["FastAPI", "Computer Vision", "Machine Learning", "PostgreSQL", "Backend Development", "System Design"],
+    highlights: [
+        "Secured 45th Rank in DDCET 2025 (Gujarat State) 🏆",
+        "Built multiple AI & Backend projects using FastAPI, PostgreSQL and YOLOv8 🤖",
+        "Maintained a CGPA above 9.5 throughout diploma in engineering 🎓"
+    ],
+    funFact: "I turn real-world problems into AI-powered applications and love learning through hackathons! ⚡"
+};
 ```
 
-</td>
-</tr>
-</table>
+## 💼 Professional Experience
 
-<br/>
+| **🤖 AI & Machine Learning Intern** |
+|---|
+| *Techify Solutions* \| 2 Months |
+| Worked on real-world AI and Machine Learning applications, contributing to the **GoMoto** project. Developed backend APIs, performed data preprocessing, trained ML models, and collaborated on production-level solutions using Python and modern AI frameworks. |
+| `Data Preprocessing` `Model Training & Evaluation` `Python` `Pandas` `Scikit-learn` `Practical ML Workflows` |
 
-## Tech Stack
+## 🛠️ Tech Arsenal
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Programming Languages**
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
 
-**Backend Frameworks**
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/Alembic-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Databases**
+## 📊 GitHub Analytics
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hirvak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirvak&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
-**Machine Learning & Computer Vision**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirvak&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-00C2FF?style=for-the-badge&logo=yolo&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirvak&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-**Python Ecosystem**
+## 🚀 Featured Projects
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- 🍽️ **[NutriLens – AI Food Calorie Prediction](https://github.com/hirvak/NutriLens)**
+  AI-powered calorie estimation system using custom-trained YOLOv8 models with nutrition tracking, streaks, and manual food entry.
+  **Tech Stack:** `FastAPI` `React` `PostgreSQL` `YOLOv8` `Computer Vision`
 
-**Developer Tools**
+- 🎫 **[Ticket Management System](https://github.com/hirvak/Ticket-Management-System)**
+  Role-based ticket management platform with authentication, admin dashboard, search, filtering, and pagination.
+  **Tech Stack:** `FastAPI` `React` `TypeScript` `PostgreSQL` `JWT`
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+- 🚍 **[TransitOps](https://github.com/hirvak/TransitOps)**
+  Smart transport operations platform for managing vehicles, drivers, trips, fuel logs, maintenance, and expenses.
+  **Tech Stack:** `FastAPI` `PostgreSQL` `JWT` `Alembic`
 
-</div>
+<p align="center">
+  <a href="https://github.com/hirvak?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</p>
 
-<br/>
+## 🎯 Current Focus
 
-## Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/System_Design-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-00C2FF?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM_Applications-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic_AI-00C2FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Design_Patterns-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud_Fundamentals-00C2FF?style=flat-square" />
-
-</div>
-
-<br/>
-
-## Current Goals
-
-- Building AI-powered applications end-to-end, from model to API
-- Strengthening backend architecture & system design fundamentals
-- Learning Docker & CI/CD pipelines for production-grade deployment
-- Exploring LLM-based and agentic AI applications
-- Actively participating in hackathons
-- Contributing to open source
-- Exploring new technologies
-
-<br/>
-
-## Engineering Principles
-
-- Write clean and maintainable code
-- Build scalable backend systems
-- Learn by building real-world projects
-- Keep improving through continuous learning
-
-<br/>
-
-## Fun Fact
-
-Outside of coding, I enjoy participating in hackathons and turning ideas into working prototypes.
-
-<br/>
-
-## Featured Projects
-
-<details open>
-<summary><b>Food Calories Prediction</b></summary>
-<br/>
-
-> Computer vision system that detects food items from images and predicts nutritional/calorie information in real time.
-
-**Tech:** `YOLOv8` `FastAPI` `PostgreSQL` `Computer Vision` `Machine Learning`
-
-**Highlights**
-- Real-time food detection using YOLOv8
-- FastAPI backend serving prediction results
-- Nutrition data persisted and queried via PostgreSQL
-
-</details>
-
-<details>
-<summary><b>Ticket Management System</b></summary>
-<br/>
-
-> A role-based ticketing platform with authentication, search, and filtering built for real-world support workflows.
-
-**Tech:** `FastAPI` `JWT Authentication` `PostgreSQL`
-
-**Highlights**
-- Role-based access control (RBAC)
-- Search, filters, and pagination for large ticket volumes
-- Secure JWT-based authentication flow
-
-</details>
-
-<details>
-<summary><b>JobNimbus CRM Integration</b></summary>
-<br/>
-
-> Integration layer connecting external systems to JobNimbus CRM via REST APIs and webhooks.
-
-**Tech:** `REST APIs` `Webhooks` `Authentication`
-
-**Highlights**
-- Automated data sync through webhook events
-- Secure authenticated API communication
-- Streamlined CRM automation workflows
-
-</details>
-
-<details>
-<summary><b>Titanic Survival Prediction API</b></summary>
-<br/>
-
-> Classic ML classification problem served as a production-style API.
-
-**Tech:** `Machine Learning` `Logistic Regression` `FastAPI` `Scikit-Learn` `PostgreSQL`
-
-**Highlights**
-- Logistic regression model wrapped in a FastAPI service
-- Prediction results stored and retrievable via PostgreSQL
-- Clean, testable ML-serving architecture
-
-</details>
-
-<details>
-<summary><b>AI Image Classifier</b></summary>
-<br/>
-
-> Binary image classifier built with a custom CNN architecture.
-
-**Tech:** `TensorFlow` `CNN` `Image Classification`
-
-**Highlights**
-- Custom convolutional neural network built with TensorFlow
-- Trained and evaluated on a binary classification task
-
-</details>
-
-<br/>
-
-## Achievements & Leadership
-
-**Hands-on Experience**
-- FastAPI backend development & REST API design
-- Authentication & authorization systems (JWT)
-- Machine learning model development & deployment
-- CRM integrations & webhook automation
-
-<br/>
-
-## Roadmap
-
-```
-✔ Backend Development
-✔ Machine Learning
-✔ Computer Vision
-✔ REST APIs
-⬜ Docker
-⬜ CI/CD
-⬜ Kubernetes
-⬜ Distributed Systems
-⬜ LLM Applications
+```mermaid
+mindmap
+  root((Hirva's Focus))
+    Backend Development
+      FastAPI
+      REST APIs
+      System Design
+    AI / ML
+      Computer Vision
+      YOLOv8
+      Model Training
+    Databases
+      PostgreSQL
+      MySQL
+    DevOps
+      Docker
+      CI/CD
+      Cloud
 ```
 
-<br/>
+## 🌟 Let's Connect!
 
-## GitHub Statistics
+<p align="center">
+  <a href="https://linkedin.com/in/hirva-kansara-b901392b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hirvak">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=hirvak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=00C2FF&currStreakLabel=58A6FF" />
+---
 
-<br/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hirvak.hirvak" alt="Visitor Badge" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hirvak&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=00C2FF&point=C9D1D9" width="98%"/>
+<h3 align="center">💫 "Learning never stops and neither does innovation!" 💫</h3>
 
-</div>
-
-<br/>
-
-## Let's Connect
-
-<div align="center">
-
-I'm always open to discussing backend systems, AI/ML projects, hackathons, or open-source collaboration — feel free to reach out.
-
-<a href="https://www.linkedin.com/in/hirva-kansara-b901392b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hirvakansara36@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/hirvak"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00C2FF" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Good backend engineering is invisible — it just works, scales, and never surprises you."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=16&fontAlignY=65&descAlign=50" width="100%">
