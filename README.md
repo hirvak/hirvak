@@ -180,22 +180,14 @@ Contributed a **weight-plan pinning** feature.
 </p>
 
 ---
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hirvak&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Hirva's GitHub Stats"
-  />
+  <img src="./profile/stats.svg" alt="Hirva's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirvak&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Hirva's Top Languages"
-  />
+  <img src="./profile/top-langs.svg" alt="Hirva's Top Languages"/>
 </p>
 
 ---
