@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio ↗</a> ·
+  <a href="https://hirva-portfolio.vercel.app/">Portfolio ↗</a> ·
   <a href="https://linkedin.com/in/hirva-kansara-b901392b2">LinkedIn ↗</a> ·
   <a href="https://github.com/hirvak">GitHub ↗</a> ·
   <a href="mailto:hirvakansara36@gmail.com">Email ↗</a>
